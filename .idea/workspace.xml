@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c70b687-7ce5-411b-ae53-41eb6788de0b" name="Default Changelist" comment="&quot;5.4. Протеиновая диета.[#157462]&quot;">
+    <list default="true" id="8c70b687-7ce5-411b-ae53-41eb6788de0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/PrimeNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/job4j/loop/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/classes/ru/job4j/loop/Board.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Fitness.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/PrimeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/FitnessTest.java">
+        <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/PrimeNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,19 +40,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/BoardTest.java">
+        <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="51">
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -74,8 +66,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/FitnessTest.java" />
         <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Fitness.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Main.java" />
         <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Board.java" />
+        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/PrimeNumberTest.java" />
+        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/Main.java" />
+        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Main.java" />
       </list>
     </option>
   </component>
@@ -103,10 +98,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1172" />
-    <option name="height" value="668" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1465" />
+    <option name="height" value="835" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -117,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -142,67 +138,6 @@
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="loop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="job4j" type="462c0819:PsiDirectoryNode" />
-              <item name="loop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="job4j" type="b2602c69:ProjectViewProjectNode" />
@@ -316,11 +251,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565002554354" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565452403872" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RunDashboard">
@@ -335,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BoardTest">
+  <component name="RunManager" selected="JUnit.PrimeNumberTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.loop.Main" />
       <module name="chapter_001" />
@@ -377,7 +311,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FitnessTest.whenIvanGreatNik" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter_001" />
       <extension name="coverage">
         <pattern>
@@ -386,14 +320,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.job4j.loop" />
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.loop.FitnessTest" />
-      <option name="METHOD_NAME" value="whenIvanGreatNik" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.loop.PrimeNumberTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FitnessTest.whenIvanLessByFewNik" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeNumberTest.when11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter_001" />
       <extension name="coverage">
         <pattern>
@@ -402,8 +334,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.job4j.loop" />
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.loop.FitnessTest" />
-      <option name="METHOD_NAME" value="whenIvanLessByFewNik" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.loop.PrimeNumberTest" />
+      <option name="METHOD_NAME" value="when11" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -411,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrimeNumberTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PrimeNumberTest.when11" />
         <item itemvalue="JUnit.BoardTest" />
         <item itemvalue="JUnit.FitnessTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.FitnessTest.whenIvanLessByFewNik" />
-        <item itemvalue="JUnit.FitnessTest.whenIvanGreatNik" />
       </list>
     </recent_temporary>
   </component>
@@ -430,45 +362,53 @@
       <option name="presentableId" value="Default" />
       <updated>1564929008796</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;proverka&quot;">
+      <created>1565435400531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565435400531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FitnessTest_whenIvanLessByFewNik - 2019.08.05 at 00h 48m 09s.xml">
-      <configuration name="FitnessTest.whenIvanLessByFewNik" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 16h 44m 33s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FitnessTest - 2019.08.05 at 00h 48m 15s.xml">
-      <configuration name="FitnessTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 16h 44m 35s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FitnessTest - 2019.08.05 at 00h 56m 27s.xml">
-      <configuration name="FitnessTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 16h 56m 16s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 11h 07m 38s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 17h 09m 31s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 11h 08m 19s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 17h 23m 29s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 11h 09m 00s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 17h 34m 46s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 11h 09m 25s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 17h 47m 17s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 11h 11m 33s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 17h 53m 59s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 13h 47m 24s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 17h 55m 12s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BoardTest - 2019.08.05 at 13h 49m 31s.xml">
-      <configuration name="BoardTest" configurationId="JUnit" />
+    <history-entry file="PrimeNumberTest - 2019.08.10 at 18h 33m 52s.xml">
+      <configuration name="PrimeNumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1168" height="624" extended-state="6" />
+    <frame x="-7" y="-7" width="1294" height="694" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25902528" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.262945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -477,12 +417,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4765784" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918533" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29003558" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3706721" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3683274" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299389" />
@@ -496,37 +436,38 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.17718941" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.4765784" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.262945" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47602132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39786857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36944938" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299389" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" weight="0.32942238" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;5.4. Протеиновая диета.[#157462]&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;5.4. Протеиновая диета.[#157462]&quot;" />
+    <MESSAGE value="&quot;proverka&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;proverka&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/job4j/condition/SqArea.java" />
@@ -571,21 +512,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Main.java" />
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Fitness.java">
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/FitnessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -596,10 +526,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Board.java">
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/FitnessTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="273">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Fitness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/loop/PrimeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/loop/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
